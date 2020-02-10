@@ -1,1 +1,5 @@
-I'm a beginner with code and programming but I already have some experience with __CSS__ and __HTML__. In my last job I worked a lot with **Excel** and **Cobra CRM Pro**. I am good at *structuring* and *organizing* my work which can only help me as a programmer. 
+* a little experience in __CSS__ and __HTML__
+
+* previous job experience includes **Excel** and **Cobra CRM Pro**
+
+* *structuring* and *organizing* tasks comes naturally to me 
