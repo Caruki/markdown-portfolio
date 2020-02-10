@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a beginner with code and programming but I already have some experience with __CSS__ and __HTML__. In my last job I worked a lot with **Excel** and **Cobra CRM Pro**. I am good at *structuring* and *organizing* my work which can only help me as a programmer. 
